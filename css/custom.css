@@ -1,0 +1,68 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+html{    
+}
+::selection{
+    color: black;
+    background-color:#ffc107;
+    text-shadow: none;
+ }
+body {
+    width: 100svw;
+    height: 100svh;
+  background: #000428; /* fallback for old browsers */
+  background: -webkit-radial-gradient( #87dfe3, #000428);
+  background: radial-gradient( #87dfe3, #000428);
+  
+}
+header {
+  margin: 30px 0;
+}
+.contenido {
+  padding: 20px;
+}
+.contenido-principal {
+  background-color: white;
+  padding: 30px;
+  border-radius: 20px;
+  box-shadow:0px 1px 20px 2px rgb(0 0 0 / 65%);
+}
+.presupuesto p {
+  margin-bottom: 0;
+  font-weight: bold;
+}
+.presupuesto p span {
+  font-weight: normal;
+}
+#gastos {
+  margin-bottom: 30px;
+}
+h1 {
+  font-family: "Raleway", sans-serif;
+  font-weight: 100;
+  color: white;
+  text-shadow: 1px 3px 2px black;
+}
+h2 {
+  font-family: "Raleway", sans-serif;
+  font-weight: 100;
+  color: #004e92;
+  font-size: 22px;
+  margin-bottom: 30px;
+}
+.input__main {
+  flex: 1 1 100%;
+  text-align: center;
+}
+.input__budget {
+  line-height: 1.5;
+  padding: 0.3rem 0.75rem;
+}
+.badge{
+    font-size: 1rem;
+}.borrar-gasto{
+    font-size: 1rem;
+}
