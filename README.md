@@ -12,7 +12,7 @@
 ![here](/screenshots/screenshot.png)
 
 ## Online Link
-[github Pages Link](https://tiborkopca.github.io/)
+[github Pages Link](https://tiborkopca.github.io/Javascript2024-SpendingsCalculator/)
 
 ## Authors
 
